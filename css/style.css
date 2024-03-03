@@ -4,7 +4,7 @@
 
 .navbar {
     background-color: #C3CFB8;
-    ;
+    font-family: 'krub', sans-serif;
 }
 .navbar nav {
     background-color: #C3CFB8 !important; 
@@ -12,11 +12,13 @@
 .jumbotron {
     background-color:#C3CFB8 !important; 
     margin-bottom: 50px ; 
+    font-family: 'Rubik', sans-serif;
 }
 .information {
     background-color: #C3CFB8;
     padding: 20px;
     margin-top: -100px;
+    font-family: 'Rubik', sans-serif;
 }
 
 .row {
