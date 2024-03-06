@@ -17,13 +17,24 @@
 .information {
     background-color: #C3CFB8;
     padding: 20px;
-    margin-top: -100px;
+    margin-top: -200px;
     font-family: 'Rubik', sans-serif;
 }
+.problem {
+    padding-top: 70px;
+  }
+  .goal {
+    padding-top: -100px;
 
+  }
 .row {
     margin-bottom: 20px;
 }
 .col-md-4 {
     padding: 10px; 
   }
+ 
+.no-wrap-list li {
+    white-space: nowrap;
+    padding-right: 50px;    
+}
